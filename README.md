@@ -8,7 +8,8 @@ Aplicación interactiva desarrollada con Streamlit para explorar y analizar dato
 
 _Sección reservada para agregar capturas de pantalla._
 
-<!-- Agrega aquí las capturas de la aplicación. -->
+<img width="1640" height="877" alt="image" src="https://github.com/user-attachments/assets/0ae83ed4-3a26-4085-a3ce-dc655e1a8f6f" />
+
 
 ## Instrucciones de ejecución
 

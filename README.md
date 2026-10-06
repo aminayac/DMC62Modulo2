@@ -42,4 +42,5 @@ Repositorio
 https://github.com/aminayac/DMC62Modulo2
 
 Módulo 2 en Streamlit
+https://dmc62-modulo2-anibal-minaya.streamlit.app/
 

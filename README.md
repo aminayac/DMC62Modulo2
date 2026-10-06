@@ -38,4 +38,8 @@ Al iniciar, Streamlit mostrará la dirección local de la aplicación en la term
 - Resumen visual y hallazgos descriptivos.
 
 ## Links relevantes
+Repositorio
+https://github.com/aminayac/DMC62Modulo2
+
+Módulo 2 en Streamlit
 

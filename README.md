@@ -35,8 +35,12 @@ _Sección reservada para agregar capturas de pantalla._
 
 Desde la carpeta del proyecto:
 python -m pip install streamlit pandas numpy matplotlib seaborn
+
+Para ejecutar en un entorno local
 streamlit run app.py
 
+En streamlit, está publicado en este link:
+https://dmc62-modulo2-anibal-minaya.streamlit.app/
 
 Al iniciar, Streamlit mostrará la dirección local de la aplicación en la terminal. En la barra lateral, selecciona **Módulo 2 - Análisis Exploratorio de Datos** y carga `BankMarketing.csv`. La aplicación lee archivos CSV con `;` como separador.
 

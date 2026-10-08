@@ -36,7 +36,7 @@ _Sección reservada para agregar capturas de pantalla._
 Desde la carpeta del proyecto:
 python -m pip install streamlit pandas numpy matplotlib seaborn
 
-Para ejecutar en un entorno local
+Para ejecutar en un entorno local:
 streamlit run app.py
 
 En streamlit, está publicado en este link:
